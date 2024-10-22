@@ -1,6 +1,7 @@
 # -PYTHON-PROJECT-DIWALI-SALES-ANALYSIS
 
 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩𝙨:
+
 𝟏)𝗗𝗮𝘁𝗮 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗶𝗼𝗻: Delved deep into sales data to uncover trends, patterns, and key insights.
 𝟐)𝗣𝘆𝘁𝗵𝗼𝗻 𝗠𝗮𝘀𝘁𝗲𝗿𝘆: Leveraged Python and essential libraries for efficient data manipulation and analysis.
 𝟑)𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝗼𝗿𝘆𝘁𝗲𝗹𝗹𝗶𝗻𝗴: Crafted compelling visualizations to communicate findings effectively.
